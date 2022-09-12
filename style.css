@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color:rgb(78, 59, 34);
+    width: 100vw;
+    height: 100vh;
+}
+.container{
+    height: inherit;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;    
+}
